@@ -14,44 +14,26 @@ const marceloCarabajal = {
   pronouns: "he/him",
   location: "Argentina",
   role: "Full Stack Developer",
-  code: [
-    "Java",
-    "JavaScript",
-    "TypeScript",
-    "SQL"
-  ],
+  languages: ["Java", "JavaScript", "TypeScript", "C#", "SQL"],
   backend: [
     "Spring Boot",
     "Quarkus",
     "Node.js",
     "Express.js",
-    "NestJS"
+    "NestJS",
+    ".NET",
+    "ADO.NET"
   ],
-  frontend: [
-    "React",
-    "Next.js",
-    "React Native"
-  ],
-  mobile: [
-    "Android Studio"
-  ],
-  databases: [
-    "MySQL",
-    "MongoDB",
-    "Firebase"
-  ],
-  tools: [
-    "Redux Toolkit",
-    "Docker",
-    "Git",
-    "GitHub",
-    "Figma",
-    "MUI"
-  ],
+  frontend: ["React", "Next.js"],
+  mobile: ["React Native", "Android Studio"],
+  databases: ["MySQL", "SQL Server", "MongoDB", "Firebase"],
+  auth: ["Keycloak"],
+  tools: ["Redux Toolkit", "Docker", "Git", "GitHub", "MUI", "Figma"],
   currentFocus: [
-    "Scalable backend architectures",
-    "Mobile apps",
+    "Backend architecture",
+    "Scalable applications",
+    "Mobile development",
     "E-commerce solutions",
-    "Product-oriented development"
+    "Digital product building"
   ]
 }

@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Marcelo Carabajal</h1>
-<h3 align="center">Developer from Argentina</h3>
+<h3 align="center">Full Stack Developer from Argentina</h3>
 
 <p align="center">
   Building web, mobile, and backend solutions with a strong focus on scalable products.
@@ -22,8 +22,9 @@ I'm Marcelo Carabajal, a **Full Stack Developer** from Argentina with experience
 
 I work mainly with:
 
-- **Backend:** Java, Spring Boot, Quarkus, Node.js, Express.js, NestJS, C# /.NET, ADO.NET
-- **Frontend:** React, Next.js, Windows Forms
+- **Backend:** Java, Spring Boot, Quarkus, Node.js, Express.js, NestJS, C#/.NET, ADO.NET
+- **Frontend:** React, Next.js
+- **Desktop:** Windows Forms
 - **Mobile:** React Native
 - **Databases:** MySQL, SQL Server, MongoDB, Firebase
 - **Auth & Security:** Keycloak

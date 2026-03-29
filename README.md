@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Marcelo Carabajal</h1>
-<h3 align="center">Full Stack Developer from Argentina</h3>
+<h3 align="center">Developer from Argentina</h3>
 
 <p align="center">
   Building web, mobile, and backend solutions with a strong focus on scalable products.
@@ -9,8 +9,8 @@
   <a href="https://www.linkedin.com/in/marcelo-carabajal/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marcelo%20Carabajal-blue?style=flat-square&logo=linkedin">
   </a>
-  <a href="mailto:marce.tsgia@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-marce.tsgia@gmail.com-blue?style=flat-square&logo=gmail">
+  <a href="mailto:marcelocarabajalok@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-marcelocarabajalok@gmail.com-blue?style=flat-square&logo=gmail">
   </a>
 </p>
 
@@ -23,7 +23,7 @@ I'm Marcelo Carabajal, a **Full Stack Developer** from Argentina with experience
 I work mainly with:
 
 - **Backend:** Java, Spring Boot, Quarkus, Node.js, Express.js, NestJS, C# /.NET, ADO.NET
-- **Frontend:** React, Next.js
+- **Frontend:** React, Next.js, Windows Forms
 - **Mobile:** React Native
 - **Databases:** MySQL, SQL Server, MongoDB, Firebase
 - **Auth & Security:** Keycloak
@@ -101,14 +101,3 @@ I'm especially interested in:
 - Authentication & Security
 - E-commerce Solutions
 - Digital Product Thinking
-
----
-
-## ⚙️ GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/MarceloCarabajal">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelocarabajal&theme=buefy&layout=compact" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelocarabajal&theme=buefy&show_icons=true" />
-  </a>
-</p>
